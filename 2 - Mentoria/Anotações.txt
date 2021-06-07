@@ -1,0 +1,59 @@
+classificação
+
+agrupar questões
+
+bag of words
+n grams
+########################################################################
+
+Seguem as ações que conversamos agora:
+
+1. elaborar a árvore com disciplinas e assuntos que serão mapeados na classificação;
+
+2. preparar a base de dados com questões previamente classificadas dentro segundo os assuntos mapeados na árvore;
+
+3. estudar as primeiras técnicas para classificação de texto como bag-of-words e regressão logística;
+
+4. estudar técnicas mais avançadas para classificação de texto.
+
+
+
+--- proposições 
+
+########################################################################
+removo stopwords
+
+procurar biblioteca com stopwords
+
+sigmoide logistica
+
+cross validation:
+	separa em 2 partes
+	 - uma parte pra treinar
+	 - outra pra testar
+	 
+matriz de confusão. 
+########################################################################
+
+Tópicos da mentoria 05/06
+
+Converter HTML para texto (ex.: UTF-8, ASCII)
+
+Uso da classe CountVectorizer: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+
+Stopwords: https://gist.github.com/alopes/5358189
+
+Validação cruzada:
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+
+Matriz de confusão: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+
+Atividades posteriores:
+- validação cruzada (KFold estratificado): https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html
+
+- bag of words normalizado (TfidfVectorizer): https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+
+- repositório com códigos de exemplo: https://github.com/alex-carneiro/Moving2DS
+
+ 
