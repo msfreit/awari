@@ -6,3 +6,6 @@ Linguagem Principal:
 Python
 
 Fameworks:
+Pandas
+Seaborn
+matplotlib
