@@ -56,4 +56,21 @@ Atividades posteriores:
 
 - repositório com códigos de exemplo: https://github.com/alex-carneiro/Moving2DS
 
- 
+ ############################################################################
+ 26/06/2021
+ Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+
+Clustering com Scikit-Learn: https://scikit-learn.org/stable/modules/clustering.html
+
+Overfit: https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
+
+Distância de Levenshtein: http://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm
+
+Distância de Levenshtein com Python: https://pypi.org/project/python-Levenshtein/
+
+Uso de votação para associar novas tags para as sentenças após clusterização
+
+TODO: elaborar o pipeline sequencial que descreva as tarefas para agrupamento e mapeamento das questões
+
+
+Vídeo sobre descrição automática de cenas: https://www.youtube.com/watch?v=40riCqvRoMs
